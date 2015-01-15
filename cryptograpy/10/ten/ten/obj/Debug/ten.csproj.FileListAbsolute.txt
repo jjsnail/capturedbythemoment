@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\bin\Debug\ten.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\bin\Debug\ten.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\bin\Debug\ten.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\obj\Debug\ten.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\obj\Debug\ten.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\obj\Debug\ten.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\obj\Debug\ten.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\obj\Debug\ten.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\10\ten\ten\obj\Debug\ten.pdb

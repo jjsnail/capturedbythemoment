@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\bin\Debug\Tests.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\bin\Debug\Tests.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\bin\Debug\Tests.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\obj\Debug\Tests.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\obj\Debug\Tests.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\obj\Debug\Tests.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\obj\Debug\Tests.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\tests\Tests\Tests\obj\Debug\Tests.pdb

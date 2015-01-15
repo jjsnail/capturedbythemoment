@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\bin\Debug\crypto_twelve.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\bin\Debug\crypto_twelve.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\bin\Debug\crypto_twelve.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\obj\Debug\crypto_twelve.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\obj\Debug\crypto_twelve.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\obj\Debug\crypto_twelve.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\obj\Debug\crypto_twelve.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\obj\Debug\crypto_twelve.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\12\crypto_twelve\crypto_twelve\obj\Debug\crypto_twelve.pdb

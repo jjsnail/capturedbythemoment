@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\bin\Debug\caratsuba.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\bin\Debug\caratsuba.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\bin\Debug\caratsuba.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\obj\Debug\caratsuba.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\obj\Debug\caratsuba.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\obj\Debug\caratsuba.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\obj\Debug\caratsuba.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\obj\Debug\caratsuba.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\caratsuba\caratsuba\caratsuba\obj\Debug\caratsuba.pdb

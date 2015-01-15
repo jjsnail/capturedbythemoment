@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\bin\Debug\nine.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\bin\Debug\nine.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\bin\Debug\nine.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\obj\Debug\nine.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\obj\Debug\nine.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\obj\Debug\nine.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\obj\Debug\nine.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\obj\Debug\nine.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\9\nine\nine\obj\Debug\nine.pdb

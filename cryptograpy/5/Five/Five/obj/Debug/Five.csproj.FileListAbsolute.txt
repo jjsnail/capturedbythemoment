@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\bin\Debug\Five.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\bin\Debug\Five.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\bin\Debug\Five.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\obj\Debug\Five.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\obj\Debug\Five.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\obj\Debug\Five.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\obj\Debug\Five.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\obj\Debug\Five.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\5\Five\Five\obj\Debug\Five.pdb

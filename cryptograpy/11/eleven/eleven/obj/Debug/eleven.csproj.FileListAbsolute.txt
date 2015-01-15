@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\bin\Debug\eleven.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\bin\Debug\eleven.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\bin\Debug\eleven.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\obj\Debug\eleven.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\obj\Debug\eleven.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\obj\Debug\eleven.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\obj\Debug\eleven.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\obj\Debug\eleven.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\11\eleven\eleven\obj\Debug\eleven.pdb

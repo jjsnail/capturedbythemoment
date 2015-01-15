@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\bin\Debug\seven.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\obj\Debug\seven.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\obj\Debug\seven.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\obj\Debug\seven.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\obj\Debug\seven.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\bin\Debug\seven.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\bin\Debug\seven.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\obj\Debug\seven.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\7\seven\seven\obj\Debug\seven.pdb

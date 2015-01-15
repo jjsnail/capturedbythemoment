@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\bin\Debug\eight.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\obj\Debug\eight.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\obj\Debug\eight.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\obj\Debug\eight.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\obj\Debug\eight.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\bin\Debug\eight.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\bin\Debug\eight.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\obj\Debug\eight.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\8\eight\eight\obj\Debug\eight.pdb

@@ -1,0 +1,9 @@
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\bin\Debug\Six.exe.config
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\bin\Debug\Six.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\bin\Debug\Six.pdb
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\obj\Debug\Six.csprojResolveAssemblyReference.cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\obj\Debug\Six.Form1.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\obj\Debug\Six.Properties.Resources.resources
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\obj\Debug\Six.csproj.GenerateResource.Cache
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\obj\Debug\Six.exe
+F:\^STUDYSTUDYSTUDY\CRYPTO\6\Six\Six\obj\Debug\Six.pdb
